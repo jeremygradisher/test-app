@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Just a quick test
+
+## Setting up the work MacBook. Making sure I had Node.js, Visual Studio, and React developer tools.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
